@@ -16,7 +16,7 @@ In Java 2D arrays are written a little differently than in C++.
 
 2D Arrays are used to storing data as a tabular form, like a table with rows and columns. 
 
-To declare a 2D array we use to sets of square brackets, `[ ][ ]` **next to its data type** or **next to its identifier**.
+To declare a 2D array we use two sets of square brackets, `[ ][ ]` **next to its data type** or **next to its identifier**.
 
 **Declaring an array in Java:**
 ```java
