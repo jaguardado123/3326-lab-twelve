@@ -1,6 +1,6 @@
 # Lab Assignment 12
 
-In this lab you will practice working with arrays.
+In this lab you will practice working with 2D arrays.
 
 Same as the previous labs, you need to set up your workspace (class and main() method).
 
