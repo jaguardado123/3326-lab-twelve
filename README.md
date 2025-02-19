@@ -75,19 +75,17 @@ For more information on 2D arrays in Java visit: https://www.w3schools.com/java/
 
 ## Your Assignment
 
-### Array Reversal
+### 2D Array Reversal
 
-Create a 2D array of size *rows* x *columns*, where the value of *rows* and *columns* is provided by the user.
+1. Create a 2D array of size *rows* x *columns*, where the value of *rows* and *columns* is provided by the user.
 
-Populate the array with numbers 1 to (*rows* * *columns*). For example, a 3x3 2D array should store values from 1, 2, 3, ..., 9.
+2. Populate the array with numbers 1 to (*rows* x *columns*). For example, a 3x3 2D array should store values from 1, 2, 3, ..., 9.
 
 Then print out the 2D array.
 
-Next, create a copy of your 2D array.
+Next, reverse the values in rows only.
 
-In the 2D array copy, reverse the values in rows only.
-
-Print out the the 2D array copy.
+Print out the the 2D array.
 
 **Expected Output:**
 
@@ -95,4 +93,7 @@ Print out the the 2D array copy.
 
 ## Submit your assignment
 
-To submit your lab assignment click on the **Source Control** icon (3 circles with 2 lines) on your leftside navbar. Next, click on the **+** symbol next to **Changes** to stage your changes. Lastly, add a commit message (ex: "First commit") and click **Commit** then **Sync Changes**. And you're done!
+[Grading Criteria](https://joselitoguardado.dev/3326/labs/Lab_12.pdf)
+
+[How to Submit Assignments to GitHub](https://joselitoguardado.dev/3326/How_to_Submit_Assignments_to_GitHub.pdf)
+
